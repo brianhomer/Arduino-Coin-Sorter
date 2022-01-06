@@ -12,3 +12,7 @@ this project I would like to share is a coin sorter. In fact, there has lot of 3
 5) following links can let you learn more about the IR sensor, Motor operation
 IR sensor : http://arduinolearning.com/code/4-channel-tracking-module-and-arduino-example.php
 6）Motor L298M : https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
+7) The guiding video will put on the pateron links in the following 
+https://www.patreon.com/user?u=48035428
+8） All step file locate in this folder. together with demonstration video, assembly drawing and program as well.
+
